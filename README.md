@@ -1,4 +1,4 @@
-<h1>Hi, I'm Setonji, an <a href="https://linkedin.com/in/soa47">IT Professional and Business Analyst</a></h1>
+<h1>Hi, I'm Setonji, an <a href="https://linkedin.com/in/soa47">IT Professional, Business Analyst and Photographer</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
