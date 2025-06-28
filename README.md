@@ -4,6 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/sethonji/osticket-prereqs)
+- <b>Azure Network and Traffic Monitoring Simulutaion:</b>
   - [Network Security Group and Inspecting Traffic Between Azure Virtual Machines](https://github.com/sethonji/Azure-Network-Traffic-Monitoring-NSG-Rule-Simulation.git)
 
 <h2>🤳Connect with me:</h2>
